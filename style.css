@@ -1,0 +1,21 @@
+/* Common Css */
+.text-orange{
+    color: orange;
+}
+p{
+    font-size: 20px;
+}
+.btn-bg{
+    font-size: 18px;
+    background-image: linear-gradient(to right, rgb(246, 98, 5), rgb(247, 146, 5));
+    border: 0;
+    transition: .5s;
+}
+.btn-bg:hover{
+color: #fff;
+}
+/* Top banner */
+.top-banner{
+    background-image: url(./images/top-banner.png);
+    background-repeat: no-repeat;
+}
