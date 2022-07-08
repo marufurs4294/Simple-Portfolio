@@ -26,3 +26,19 @@ color: #fff;
     background-size: 60px;
     background-position: right;
 }
+/* Experiences */
+.experiences{
+    background-image: url(./images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-size: 60px;
+}
+.experience-item1{
+    border-left: 7px solid;
+    border-image: linear-gradient(rgb(242, 161, 55), rgb(12, 236, 239), tomato);
+    border-image-slice: 1;
+}
+.experience-item2{
+    border-left: 7px solid;
+    border-image: linear-gradient(rgb(4, 246, 21), rgb(245, 132, 2), rgb(197, 102, 241));
+    border-image-slice: 1;
+}
