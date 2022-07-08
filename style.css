@@ -19,3 +19,10 @@ color: #fff;
     background-image: url(./images/top-banner.png);
     background-repeat: no-repeat;
 }
+/* Dream Big */
+.dream-big{
+    background-image: url(./images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-size: 60px;
+    background-position: right;
+}
